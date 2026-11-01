@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=bassmicrobe&color=blueviolet" alt="Profile views">
 </div>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="👋"> Hi there, I'm takahashitoru (bassmicrobe)
+## Hi there, I'm takahashitoru (bassmicrobe)
 
 Product Engineer / Systems Engineer × DJ / Trackmaker<br>
 業務システムと SaaS をつくるエンジニアで、音を鳴らす側とつくる側の両方にいます。
@@ -24,10 +24,10 @@ Product Engineer / Systems Engineer × DJ / Trackmaker<br>
 
 ## About
 
-- 💼 **Engineer** — 2010年からエンジニアとして活動。Web 業務システムや予約プラットフォームを、要件定義から設計・実装・保守まで一貫して担当しています。料金算出・給与計算・スケジューリングのような、条件の多い業務ロジックの設計が得意です。
-- 🏢 **Company** — [サイバーアイ･テクノロジー株式会社](https://cybereye-tech.jp/) 代表
-- 🎧 **Music** — 2012年から全国のアニクラで DJ として活動。インターネットレーベル **[commune310](https://commune310.com/)** を立ち上げ、累計400曲以上をリリースしています。現在の活動の場は VRChat です。
-- 🤖 **AI-driven** — Claude Code / Codex / Cursor を使った開発。自宅の AI サーバーでローカル LLM も動かしています。
+- **Engineer** — 2010年からエンジニアとして活動。Web 業務システムや予約プラットフォームを、要件定義から設計・実装・保守まで一貫して担当しています。料金算出・給与計算・スケジューリングのような、条件の多い業務ロジックの設計が得意です。
+- **Company** — [サイバーアイ･テクノロジー株式会社](https://cybereye-tech.jp/) 代表
+- **Music** — 2012年から全国のアニクラで DJ として活動。インターネットレーベル **[commune310](https://commune310.com/)** を立ち上げ、累計400曲以上をリリースしています。現在の活動の場は VRChat です。
+- **AI-driven** — Claude Code / Codex / Cursor を使った開発。自宅の AI サーバーでローカル LLM も動かしています。
 
 ## Skills
 
