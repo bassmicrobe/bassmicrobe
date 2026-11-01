@@ -7,9 +7,8 @@
 Product Engineer / Systems Engineer × DJ / Trackmaker<br>
 業務システムと SaaS をつくるエンジニアで、音を鳴らす側とつくる側の両方にいます。
 
-<!-- takahashitoru.com はまだ DNS が引けないので、Vercel の URL にしている。ドメインがつながったら https://takahashitoru.com に替える -->
 <p>
-  <a href="https://takahashitoru-com.vercel.app"><img src="https://img.shields.io/badge/Portfolio-takahashitoru.com-111111?style=flat-square" alt="Portfolio"></a>
+  <a href="https://takahashitoru.com"><img src="https://img.shields.io/badge/Portfolio-takahashitoru.com-111111?style=flat-square" alt="Portfolio"></a>
   <a href="https://bassmicrobe.com"><img src="https://img.shields.io/badge/Music-bassmicrobe.com-111111?style=flat-square" alt="bassmicrobe.com"></a>
   <a href="https://cybereye-tech.jp"><img src="https://img.shields.io/badge/Company-cybereye--tech.jp-111111?style=flat-square" alt="cybereye-tech.jp"></a>
 </p>
@@ -55,7 +54,7 @@ Product Engineer / Systems Engineer × DJ / Trackmaker<br>
 
 | サイト | 内容 | 使っている技術 |
 | --- | --- | --- |
-| [takahashitoru.com](https://takahashitoru-com.vercel.app) | 私のポートフォリオ。three.js の演出と、AWS SES で送るお問い合わせフォーム | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,threejs,aws,docker,vercel,vitest" height="28" alt="Next.js, React, TypeScript, three.js, AWS, Docker, Vercel, Vitest"> |
+| [takahashitoru.com](https://takahashitoru.com) | 私のポートフォリオ。three.js の演出と、AWS SES で送るお問い合わせフォーム | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,threejs,aws,docker,vercel,vitest" height="28" alt="Next.js, React, TypeScript, three.js, AWS, Docker, Vercel, Vitest"> |
 | [cybereye-tech.jp](https://cybereye-tech.jp/) | 私が代表を務めるサイバーアイ･テクノロジーのコーポレートサイト。コンテンツを更新する管理画面つき | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,prisma,mysql,tailwind,nginx,docker,aws,vercel,vitest,githubactions" height="28" alt="Next.js, React, TypeScript, Prisma, MySQL, Tailwind CSS, Nginx, Docker, AWS, Vercel, Vitest, GitHub Actions"> |
 | [bassmicrobe.com](https://bassmicrobe.com/) | 私の DJ / Trackmaker としての活動サイト。プロフィール・スケジュール・お問い合わせと管理画面 | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,prisma,mysql,tailwind,nginx,docker,aws,vercel" height="28" alt="Next.js, React, TypeScript, Prisma, MySQL, Tailwind CSS, Nginx, Docker, AWS, Vercel"> |
 | [commune310.com](https://commune310.com/) | 私が主宰する音楽レーベル commune310 の公式サイト。リリース情報と作品の検索、Bandcamp・BOOTH・YouTube へのリンク | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,threejs,vitest,vercel" height="28" alt="Next.js, React, TypeScript, Tailwind CSS, three.js, Vitest, Vercel"> |
